@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Alışveriş Sepetim</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addItem">Öğe ismini giriniz...</string>
+    <string name="addItem2">Öğe Ekle</string>
+    <string name="add_data">Eklemek istediğinize emin misiniz?</string>
+    <string name="list_added">listeme eklendi</string>
+    <string name="category_deleted">kategorisi silindi...</string>
+    <string name="all_delete">Tümünü Sil</string>
+    <string name="category_deleted2">Kategori Sil</string>
+    <string name="category_deleted3">Kategorinin üzerine basılı tutarak siliniz...</string>
+    <string name="deleted_question">Silmek istediğinize emin misiniz?</string>
+    <string name="addMyList">Liste ismini giriniz</string>
+    <string name="information">Bu uygulama sayesinde yapacağınız alışverişleri not etmek oldukça kolay. Market, Meyve, Sebze, Bebek, İçecek, Kasap,
+        Donmuş Gıda, Hırdavat, Aperatif, Fırın, Pastane, Evcil Hayvan, Parfümeri, Balıkçı, Ev+ ve Ötekiler kategorileri altındaki yapacağınız bütün alışverişlerinizi
+        kategori, ürün adı ve fiyatları ile birlikte listenize ekleyebilirsiniz. Eklediğiniz bütün ürünleri Sepetim de görüntüleyerek inceleyebilirsiniz...</string>
+    <string name="back">Geri</string>
+    <string name="category_choose">Kategori Seç</string>
+    <string name="clear">Temizle</string>
+    <string name="basket_share">Sepetimi Paylaş</string>
+    <string name="app_share">Uygulamayı Paylaş</string>
+    <string name="by"></string>
+    <string name="price_input">Fiyatı giriniz...</string>
+    <string name="add">Ekle</string>
+    <string name="close">Kapat</string>
+    <string name="category_clear">Kategori Sil</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="link">Uygulama linkine tıklayarak ulaşabilirsiniz" + "https://play.google.com/store/search?q=mcobanoglu</string>
+    <string name="sure">Silmek istediğinize emin misiniz?</string>
+    <string name="total_price">Toplam Tutar :</string>
+    <string name="error">Girilen ürün fiyatı hatalı!</string>
+</resources>

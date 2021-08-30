@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="45dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:id="@+id/asd"
+    android:background="#ffffff">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:id="@+id/categoryDelete"
+    android:layout_weight="1">
+    <TextView
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/category_clear"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="20dp"/>
+</LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.025"
+        android:background="#000"/>
+
+</LinearLayout>
